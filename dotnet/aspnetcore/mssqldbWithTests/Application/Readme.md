@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/CodeCrafter96/Consolidamento_pipelines/_apis/build/status/Dotnet%20-%20aspnetcore%20-%20mssqldbWithTests?branchName=master)](https://dev.azure.com/CodeCrafter96/Consolidamento_pipelines/_build/latest?definitionId=10&branchName=master)
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | ASP.NET Core | .NET Core 1.1 | Azure Web App, Virtual Machines |
