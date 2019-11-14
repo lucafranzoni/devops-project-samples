@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/CodeCrafter96/Consolidamento_pipelines/_apis/build/status/Dotnet%20%E2%80%93%20aspnet%20%E2%80%93%20webappWithTests?branchName=master)](https://dev.azure.com/CodeCrafter96/Consolidamento_pipelines/_build/latest?definitionId=4&branchName=master)
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | ASP.NET | .NET Framework | Azure Web App, Virtual Machine| |
