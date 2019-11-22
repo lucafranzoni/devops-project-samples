@@ -41,7 +41,7 @@ steps:
       **\*test*.dll
       !**\*TestAdapter.dll
       !**\obj\**
-    searchFolder: 'dotnet/aspnet46/functionApp/Application/SampleFunctionApp.Test/*'
+    searchFolder: 'dotnet/aspnet46/functionApp/Application/SampleFunctionApp.Test'
 
 - task: PublishBuildArtifacts@1
   inputs:
