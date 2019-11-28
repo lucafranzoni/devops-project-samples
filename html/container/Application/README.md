@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lucafranzoni/Project2811/_apis/build/status/lucafranzoni.devops-project-samples?branchName=master)](https://dev.azure.com/lucafranzoni/Project2811/_build/latest?definitionId=10&branchName=master)
 | Language | Platform | Author |
 | -------- | --------|--------|
 | HTML |  Azure Web App, Virtual Machine| |
